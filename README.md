@@ -7,8 +7,7 @@ Hey there! I'm Yuvraj, a B.Tech CSE student from India 🇮🇳, passionate abou
 ### 🚀 What I Do:  
 - 🔬 Exploring the world of **Data Science & AI**  
 - 💻 Building cool projects with **AI & automation**  
-- 🎮 Running a Discord server: [The BFF Hub](https://discord.gg/hf9ZNUfvdx)  
-- 🌐 Working on my **personal website & blog** at [PoliteRhino](https://politerhino.freewebhostmost.com/)  
+- 🎮 Running a Discord server: [The BFF Hub](https://discord.gg/hf9ZNUfvdx) 
 
 ### 🛠️ Tech Stack:  
 - **Languages**: Python 🐍, Java ☕, JavaScript ⚡, HTML & CSS 🎨  
